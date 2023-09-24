@@ -39,16 +39,6 @@ body {
     font-size: .8em
 }
 
-#title {
-    vertical-align: middle;
-}
-
-#icon {
-    height: 62px;
-    width: 62px;
-    margin: 10px 10px 0 10px;
-}
-
 footer {
     background-color: cadetblue;
     text-align: center;
