@@ -48,15 +48,3 @@ body {
     width: 62px;
     margin: 10px 10px 0 10px;
 }
-
-footer {
-    background-color: cadetblue;
-    text-align: center;
-    font-weight: bold;
-    color: #fff;
-    height: 32px;
-}
-
-#title-footer {
-    padding: 6px;
-}
